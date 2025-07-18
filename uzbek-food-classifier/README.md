@@ -9,7 +9,7 @@ This is a small deep learning project built for practice and portfolio purposes.
 
 ## 📂 Dataset
 
-- Total classes: `3` (plov, shashlik, somsa)
+- Total classes: `3` (osh, kabob, manti)
 - ~130 images per class
 - All images converted to `.jpg`
 - Stored in `train/` and `test/` folders with subfolders for each class
