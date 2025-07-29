@@ -30,7 +30,7 @@ I'm Asror Xolmatov, a self-taught ML engineer from Uzbekistan, passionate about 
 Currently, I'm learning NLP and expanding my portfolio with real-world projects.
 
 - 🧠 Focus: NLP, Computer Vision, Deployment
-- 🔗 [LinkedIn](https://www.linkedin.com/in/asrorbek-kholmatov-b9273b338/) | [GitHub](https://github.com/asrorKholmatov) [Kaggle](https://www.kaggle.com/asrorxolmatov)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/asrorbek-kholmatov-b9273b338/) | [GitHub](https://github.com/asrorKholmatov) | [Kaggle](https://www.kaggle.com/asrorxolmatov)
 
 ---
 
